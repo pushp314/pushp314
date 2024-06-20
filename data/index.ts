@@ -1,10 +1,13 @@
 export const navItems = [
-
   { name: "Home", link: "#home" },
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
   // { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
+  {
+    name: "Download CV",
+    link: "https://drive.google.com/uc?export=download&id=1EgEkSMKjEpT6pcdxSOui1KRUfETqR4BM",
+  },
 ];
 
 export const gridItems = [
@@ -213,6 +216,7 @@ export const socialMedia = [
     id: 2,
     img: "/twit.svg",
     link:""
+  
   },
   {
     id: 3,
