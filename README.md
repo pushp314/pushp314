@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Pushp%20Raj%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Systems%20Builder%20•%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Pushp%20Raj%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Systems%20Builder%20•%20Cybersecurity%20&descAlignY=58&descSize=18)
 
 # 👋 Hey, I'm Pushp Raj Sharma
 
