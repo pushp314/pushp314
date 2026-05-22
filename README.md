@@ -1,11 +1,11 @@
 <!-- ========================= HEADER ========================= -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=260&section=header&text=Pushp%20Raj%20Sharma&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Systems%20Builder%20•%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=260&section=header&text=Pushp%20Raj%20Sharma&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Systems%20Builder%20•%20Cybersecurity%20&descAlignY=60&descSize=18)
 
 <h1 align="center">Hey 👋 I'm Pushp Raj Sharma</h1>
 
 <p align="center">
-  <b>Software Engineer • Full-Stack Developer • Cybersecurity Enthusiast</b>
+  <b>Software Engineer • Full-Stack Developer • Cybersecurity </b>
 </p>
 
 <p align="center">
