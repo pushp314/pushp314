@@ -1,31 +1,40 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Pushp%20Raj%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Systems%20Builder%20•%20Cybersecurity%20&descAlignY=58&descSize=18)
+<!-- ========================= HEADER ========================= -->
 
-# 👋 Hey, I'm Pushp Raj Sharma
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=260&section=header&text=Pushp%20Raj%20Sharma&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Systems%20Builder%20•%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18)
 
-🚀 Software Engineer focused on building scalable products, cybersecurity platforms, developer tools, and modern full-stack systems.
+<h1 align="center">Hey 👋 I'm Pushp Raj Sharma</h1>
 
-I enjoy designing systems that combine:
-- ⚡ Performance
-- 🔐 Security
-- ☁️ Scalability
-- 🎨 Great user experience
+<p align="center">
+  <b>Software Engineer • Full-Stack Developer • Cybersecurity Enthusiast</b>
+</p>
 
-Currently building projects around:
-- Cybersecurity & Threat Detection
-- Developer Platforms
-- AI-assisted Systems
-- Full-stack SaaS Applications
-- Real-time Infrastructure
+<p align="center">
+Building scalable systems, cybersecurity platforms, developer tools, and production-grade applications.
+</p>
 
 ---
 
-# ⚡ Current Focus
+# 🚀 About Me
 
 - 🛡️ Building **SecureX** — Security Operations & Threat Investigation Platform
-- 🌐 Developing scalable full-stack applications using modern architectures
-- 🧠 Exploring backend engineering, distributed systems, and cloud-native workflows
-- 📱 Creating production-grade web & mobile experiences
-- 🔬 Learning advanced cybersecurity concepts and offensive security workflows
+- ⚡ Focused on scalable backend systems and modern full-stack architectures
+- 🌐 Interested in cybersecurity, distributed systems, cloud infrastructure, and AI-assisted platforms
+- 📱 Developing production-grade web and mobile applications
+- 🔬 Exploring threat detection, SIEM architecture, and offensive security workflows
+- 🧠 Passionate about combining engineering + design to create impactful digital products
+
+---
+
+# ⚡ Current Tech Focus
+
+```txt
+Cybersecurity • SIEM • Threat Detection
+Backend Engineering • System Design
+Distributed Systems • Cloud Infrastructure
+Full-Stack SaaS Development
+DevOps • CI/CD • Containerization
+AI-assisted Applications
+```
 
 ---
 
@@ -33,86 +42,148 @@ Currently building projects around:
 
 ## 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+</p>
 
 ---
 
 ## 🎨 Frontend Engineering
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Remix](https://img.shields.io/badge/Remix-black?style=for-the-badge&logo=remix)
-![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,remix,tailwind,vite" />
+</p>
 
 ---
 
-## ⚙️ Backend & Infrastructure
+## 📱 Mobile Development
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+- React Native
+- Expo
+- Mobile-first UI/UX
+
+---
+
+## ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mysql" />
+</p>
+
+### Additional Backend Tools
+
+- Prisma ORM
+- REST APIs
+- Authentication Systems
+- Role-Based Access Control
+- Real-time Architectures
 
 ---
 
 ## ☁️ DevOps & Cloud
 
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,supabase" />
+</p>
 
 ---
 
-# 🔐 Interests
+# 🔐 Areas of Interest
 
-```txt
-Cybersecurity • Threat Detection • SIEM
-Backend Engineering • System Design
-Distributed Systems • DevOps
-Developer Platforms • AI Systems
-Cloud Infrastructure • Open Source
-```
+<table>
+<tr>
+<td>
+
+- Cybersecurity
+- Threat Intelligence
+- SIEM Platforms
+- Secure Architectures
+- Offensive Security
+
+</td>
+
+<td>
+
+- Full-Stack Systems
+- Backend Engineering
+- Cloud Infrastructure
+- Distributed Systems
+- AI Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pushp314&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pushp314&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pushp314&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pushp314&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushp314&layout=compact&theme=tokyonight" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushp314&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 # 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushp-raj-sharma-a84b79243/)
+<p align="left">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/pushpraj_sharma_2804)
+<a href="https://www.linkedin.com/in/pushp-raj-sharma-a84b79243/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel)](https://pushp-portfolio.vercel.app)
+<a href="mailto:pusprajsharma314@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:pusprajsharma314@gmail.com)
+<a href="https://instagram.com/pushpraj_sharma_2804">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://pushp-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 🧭 Philosophy
+# 🧭 Engineering Philosophy
 
-> Build systems that are secure, scalable, and meaningful.
+```txt
+Build systems that are:
+- Secure
+- Scalable
+- Reliable
+- Meaningful
+```
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=pushp314&style=for-the-badge&color=2563eb)
+# 📌 Current Goals
+
+- Build production-grade cybersecurity products
+- Contribute to impactful open-source ecosystems
+- Master backend and distributed systems engineering
+- Explore cloud-native and security-focused architectures
+- Develop globally scalable software products
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pushp314&style=for-the-badge&color=2563eb" />
+</p>
+
+<p align="center">
+  <i>“Innovating secure and scalable systems through technology.”</i>
+</p>
