@@ -123,14 +123,26 @@ AI-assisted Applications
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pushp314&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pushp314&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pushp314&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pushp314&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushp314&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushp314&layout=compact&theme=tokyonight" />
 </p>
+
+
+---
+
+# 🏗️ Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| **SecureX** | Security Operations & Threat Investigation Platform |
+| **CodeGram** | Developer-focused social platform for code sharing |
+| **BizCode** | Marketplace for developer assets, UI kits and Developer Chat |
+| **LocoLiv Platform** | Full-stack Social Media For Locals |
+
 
 ---
 
